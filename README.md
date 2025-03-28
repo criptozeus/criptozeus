@@ -5,11 +5,13 @@
 ###
 
 <div align="left">
-👋 Hello everyone<br>
+👋 Dear Followers<br>
 I am here to challenge advanced technical problems in crypto trading and Telegram bot/mini app projects.
 Doing several Solana/Ethereum/Base trading Telegram bot development, I got precise sense of how to trade crypto currencies<br>
 If you really want to build your own successful trading bot, I will share my golden repos and contribute to your great idea <br>
 Feel free to reach out me for consulting about your new idea, it is always an honor<br> Thanks
+<br>
+TIP for beloved followers, Blog is ready for trading learners [Link](https://how-to-be-a-good-trader.vercel.app)
 </div>
 
 ###
