@@ -1,21 +1,20 @@
 ###
 
-<h1 align="center">Full Stack & Blockchain Engineer</h1>
+<h1 align="center">The only way to do great work is to love what you do</h1>
 
 ###
 
-<br clear="both" />
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=criptozeus&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
-    width="54%"
-    alt="languages graph" />
+<div align="left">
+👋 Hello everyone<br>
+I am here to challenge advanced technical problems in crypto trading and Telegram bot/mini app projects.
+Doing several Solana/Ethereum/Base trading Telegram bot development, I got precise sense of how to trade crypto currencies<br>
+If you really want to build your own successful trading bot, I will share my golden repos and contribute to your great idea <br>
+Feel free to reach out me for consulting about your new idea, it is always an honor<br> Thanks
 </div>
 
 ###
 
-<h2 align="center">Familiar Software Tools & Programming Languages</h2>
+<h2 align="center">Trending Software Tools & Programming Languages</h2>
 
 ###
 
