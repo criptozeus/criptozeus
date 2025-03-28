@@ -11,7 +11,7 @@ Doing several Solana/Ethereum/Base trading Telegram bot development, I got preci
 If you really want to build your own successful trading bot, I will share my golden repos and contribute to your great idea <br>
 Feel free to reach out me for consulting about your new idea, it is always an honor<br> Thanks
 <br><br>
-☕TIP: Blog is ready for trading learners https://how-to-be-a-good-trader.vercel.app
+☕TIP: Telegram Group is ready for trading learners <a href="https://t.me/+0CQgySyOLVo4OTQ5">Join Group</a>
 </div>
 
 ###
